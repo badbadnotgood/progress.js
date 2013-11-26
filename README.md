@@ -3,7 +3,7 @@ progress.js
 
 `progress.js` is a very simple jQuery extension that creates a text based progress bar using the sans-serif letter "I".  A text example would look like this:
 
-> __I____I____I____I____I____I____I____I__IIIIIIIII
+> __I__ __I__ __I__ __I__ __I__ __I__ __I__ __I__ I I I I I I I I I
 
 ##Usage
 
